@@ -2,23 +2,18 @@
   "name": "starinvest-frontend",
   "version": "1.0.0",
   "private": true,
-  "homepage": ".",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.20.1",
     "axios": "^1.6.2",
     "react-query": "^3.39.3",
-    "zustand": "^4.4.7",
     "lucide-react": "^0.294.0",
-    "recharts": "^2.10.3",
-    "date-fns": "^2.30.0",
     "react-hot-toast": "^2.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test"
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": ["react-app"]
